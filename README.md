@@ -1,0 +1,2 @@
+# catatan-11tjkt2
+Catatan belajar praktikum tjkt kelas 11
